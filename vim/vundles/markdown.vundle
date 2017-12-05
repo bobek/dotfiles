@@ -1,0 +1,3 @@
+Bundle "junegunn/vim-easy-align"
+Bundle "nelstrom/vim-markdown-folding"
+
